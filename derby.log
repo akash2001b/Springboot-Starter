@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 28 20:49:19 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-40ea-1f65-0000057f3b98 
+on database directory memory:/home/akash/Documents/dev_Java/demo/ced32af4-f980-483a-a240-976875afb716 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42a57993 
+Loaded from file:/home/akash/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=/home/akash/Documents/dev_Java/demo
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-30-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
